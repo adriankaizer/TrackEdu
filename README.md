@@ -7,7 +7,10 @@ Target 4.1: Ensure all girls and boys complete free, equitable and quality prima
 By automating attendance tracking, teachers save 5-10 minutes per class for instruction. Real-time data enables identification of at-risk students before they fall behind.
 
 Team Members & Roles
-
+1. Klayden Wong Chen Khai - Designer, Tester
+2. Michael Hooi Mun Yew - Product Owner, Designer
+3. Adrian Chan Jun Lim - Developer ,Product Owner, Designer
+4. Darrel Koh Yao Wen - Scrum Master, Tester
 
  Tools Used
 - Figma: Interactive prototyping
